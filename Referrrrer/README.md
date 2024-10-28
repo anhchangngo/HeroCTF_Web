@@ -32,7 +32,7 @@ It said that if I have value of referer is YOU_SHOUD_NOT_PASS!, I will have FLAG
 
 I add Referrer but response is 403
 
-![image](/image_writeup/image1.png)
+![image](/Referrrrer/image_writeup/image1.png)
 
 <b>nginx.conf</b>
 
@@ -58,6 +58,6 @@ I see that both Referrer and Referer interchangeable
 
 ### Flag
 
-![flag](/image_writeup/image2.png)
+![flag](/Referrrrer/image_writeup/image2.png)
 
 Hero{F4KE_FLAG}

@@ -64,14 +64,15 @@ GraphQL services often use similar endpoint suffixes and in this challenge has a
 
 I realized when I set Post  <b>/graphql/graphql</b> I can send it with no limit time. 
 
-![example](/image_wirteup/image1.png)
+![example](/Best_Schools/image_wirteup/image1.png)
 
 I will set tenth time increaseClickSchool so I need only several times to make number click of Flag CyberSecurity School more than 1337
 
-![example](/image_wirteup/image2.png)
+![example](/Best_Schools/image_wirteup/image2.png)
 
 
 ### Flag
 
-![flag](/image_wirteup/image3.png)
+![flag](/Best_Schools/image_wirteup/image3.png)
+
 Hero{gr4phql_b4tch1ng_t0_byp4ss_r4t3_l1m1t_!!}
